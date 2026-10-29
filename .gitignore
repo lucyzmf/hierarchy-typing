@@ -1,0 +1,12 @@
+# generated / downloaded, not versioned
+cache
+results
+figs
+scr/model_test
+.venv
+__pycache__
+.env
+
+# editors
+.idea
+.vscode
